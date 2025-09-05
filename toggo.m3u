@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SuperRTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/SuperRTL-2020.png" group-title="Deutsch",SuperRTL
+#EXTINF:-1,SuperRTL
 https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RTL" tvg-logo="https://freebiesupply.com/logos/rtl-television-logo.png" group-title="Deutsch",RTL
+#EXTINF:-1,RTL
 https://s6.hopslan.com/rtl/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel" group-title="Deutsch",DisneyChannel
+#EXTINF:-1,DisneyChannel
 https://s6.hopslan.com/disneyX/index.m3u8
 
-#EXTINF:-1 tvg-id="ORF" group-title="Deutsch",ORF
+#EXTINF:-1,ORF
 https://s6.hopslan.com/orfm11/index.m3u8
 
-#EXTINF:-1 tvg-id="ORF2" group-title="Deutsch",ORF2
+#EXTINF:-1,ORF2
 https://s6.hopslan.com/orf2/index.m3u8
 
-#EXTINF:-1 tvg-id="KiKA" group-title="Deutsch",KiKA
+#EXTINF:-1,KiKA
 https://s6.hopslan.com/zdfX1/index.m3u8
 
-#EXTINF:-1 tvg-id="Pro7" group-title="Deutsch",Pro7
+#EXTINF:-1,Pro7
 https://s6.hopslan.com/pro7X/index.m3u8
 
-#EXTINF:-1 tvg-id="Sat1" group-title="Deutsch",Sat1
+#EXTINF:-1,Sat1
 https://s6.hopslan.com/sat11/index.m3u8
 
-#EXTINF:-1 tvg-id="RTL2" group-title="Deutsch",RTL2
+#EXTINF:-1,RTL2
 https://s6.hopslan.com/rtl2X/index.m3u8
 
-#EXTINF:-1 tvg-id="VOX" group-title="Deutsch",VOX
+#EXTINF:-1,VOX
 https://s6.hopslan.com/voxX/index.m3u8
