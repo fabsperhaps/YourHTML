@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SuperRTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/.../SuperRTL-2020.png" group-title="Deutsch",SuperRTL
+#EXTINF:-1 tvg-id="SuperRTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/SuperRTL-2020.png" group-title="Deutsch",SuperRTL
 https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/.../RTL_Logo_2021.svg" group-title="Deutsch",RTL
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://freebiesupply.com/logos/rtl-television-logo.png" group-title="Deutsch",RTL
 https://s6.hopslan.com/rtl/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/.../2010_Disney_Channel_logo.svg" group-title="Deutsch",DisneyChannel
+#EXTINF:-1 tvg-id="DisneyChannel" group-title="Deutsch",DisneyChannel
 https://s6.hopslan.com/disneyX/index.m3u8
 
-#EXTINF:-1 tvg-id="ORF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/.../ORF-Logo.svg" group-title="Deutsch",ORF
+#EXTINF:-1 tvg-id="ORF" group-title="Deutsch",ORF
 https://s6.hopslan.com/orfm11/index.m3u8
 
-#EXTINF:-1 tvg-id="ORF2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/.../ORF-Logo.svg" group-title="Deutsch",ORF2
+#EXTINF:-1 tvg-id="ORF2" group-title="Deutsch",ORF2
 https://s6.hopslan.com/orf2/index.m3u8
 
-#EXTINF:-1 tvg-id="KiKA" tvg-logo="https://seeklogo.com/vector-logo/133869/super-rtl" group-title="Deutsch",KiKA
+#EXTINF:-1 tvg-id="KiKA" group-title="Deutsch",KiKA
 https://s6.hopslan.com/zdfX1/index.m3u8
 
-#EXTINF:-1 tvg-id="Pro7" tvg-logo="" group-title="Deutsch",Pro7
+#EXTINF:-1 tvg-id="Pro7" group-title="Deutsch",Pro7
 https://s6.hopslan.com/pro7X/index.m3u8
 
-#EXTINF:-1 tvg-id="Sat1" tvg-logo="" group-title="Deutsch",Sat1
+#EXTINF:-1 tvg-id="Sat1" group-title="Deutsch",Sat1
 https://s6.hopslan.com/sat11/index.m3u8
 
-#EXTINF:-1 tvg-id="RTL2" tvg-logo="" group-title="Deutsch",RTL2
+#EXTINF:-1 tvg-id="RTL2" group-title="Deutsch",RTL2
 https://s6.hopslan.com/rtl2X/index.m3u8
 
-#EXTINF:-1 tvg-id="VOX" tvg-logo="" group-title="Deutsch",VOX
+#EXTINF:-1 tvg-id="VOX" group-title="Deutsch",VOX
 https://s6.hopslan.com/voxX/index.m3u8
