@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="toggo.de" tvg-name="TOGGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Toggo_logo.svg/2560px-Toggo_logo.svg.png" group-title="Kinder",TOGGO
-https://s6.hopslan.com/superX/index.m3u8
-
-
+#EXTINF:-1,SuperRTL
+https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
